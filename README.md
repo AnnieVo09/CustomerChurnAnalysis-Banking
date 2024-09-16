@@ -1,5 +1,3 @@
-Here’s the rewritten version in README format:
-
 # Bank Customer Churn Dataset
 
 ## Data Dictionary
